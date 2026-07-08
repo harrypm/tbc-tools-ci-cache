@@ -1,0 +1,13 @@
+nixpkgs_rev=50ab793786d9de88ee30ec4e4c24fb4236fc2674
+nixpkgs_sha256=sha256-/bVBlRpECLVzjV19t5KMdMFWSwKLtb5RyXdjz3LJT+g=
+system=x86_64-linux
+generated_utc=2026-07-07T23:37:22Z
+# package versions:
+cudaPackages_11_8.cudatoolkit=11.8
+cudaPackages_11_8.cudnn_8_9=8.9.7.29
+cudaPackages_11_8.cuda_nvcc=11.8.89
+cudaPackages_11_8.cuda_cudart=11.8.89
+cudaPackages_11_8.libcufft=10.9.0.58
+cudaPackages_11_8.libcurand=10.3.0.86
+cudaPackages_11_8.libcublas=11.11.3.6
+gcc11=11.5.0

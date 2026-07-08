@@ -1,0 +1,9 @@
+StorePath: /nix/store/p3ic6xjmnli0hyxv9ghjx969rsnrk9wy-cudnn-8.9.7.29
+URL: nar/19mw2fzk3m6ml70hnvjvjwr2xywmqss545l6i72j5y6l83cbvbzw.nar.xz
+Compression: xz
+FileHash: sha256:19mw2fzk3m6ml70hnvjvjwr2xywmqss545l6i72j5y6l83cbvbzw
+FileSize: 10060
+NarHash: sha256:1sgbbpkh3paz07qsi2xqny3sx0byy1pg0gl32ca59a7nxrrnyx9s
+NarSize: 30328
+References: 
+Deriver: 4bmi828q982f5jdpw7g2mmcdaid3gbr9-cudnn-8.9.7.29.drv

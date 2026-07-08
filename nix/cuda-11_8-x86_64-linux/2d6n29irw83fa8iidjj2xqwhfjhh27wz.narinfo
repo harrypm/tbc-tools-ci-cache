@@ -1,0 +1,9 @@
+StorePath: /nix/store/2d6n29irw83fa8iidjj2xqwhfjhh27wz-cuda_profiler_api-11.8.86-dev
+URL: nar/045fwqpbfvhqaiiwghc57q9mh6xdlw7xhqkd674mdi2sbs3mlmnz.nar.xz
+Compression: xz
+FileHash: sha256:045fwqpbfvhqaiiwghc57q9mh6xdlw7xhqkd674mdi2sbs3mlmnz
+FileSize: 3108
+NarHash: sha256:0d69ylbk4bzl33ibm2w054ilphaj5zisnji9y4djwr7wibhq0ahp
+NarSize: 15200
+References: 8ikl5mbzx6gk9fj937s7yxyqr4l040cq-cuda_profiler_api-11.8.86
+Deriver: nvmf6h84fsh3n6i6achdcnz6fbki0658-cuda_profiler_api-11.8.86.drv

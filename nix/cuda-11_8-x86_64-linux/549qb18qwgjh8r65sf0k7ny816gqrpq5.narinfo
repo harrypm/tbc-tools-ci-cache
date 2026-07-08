@@ -1,0 +1,9 @@
+StorePath: /nix/store/549qb18qwgjh8r65sf0k7ny816gqrpq5-libcusolver-11.4.1.48-lib
+URL: nar/13wciac2alrxpmbbdbjrqcng4mmmdgvbwqzlr7wq0ljrwyzz1r72.nar.xz
+Compression: xz
+FileHash: sha256:13wciac2alrxpmbbdbjrqcng4mmmdgvbwqzlr7wq0ljrwyzz1r72
+FileSize: 50288600
+NarHash: sha256:04fx6jj8yamglir01g1g2z4cbd5zxbndxi2ndfkq1knf16k5d3fr
+NarSize: 487695336
+References: hh698a2nnpqr47lh52n26wi8fiah3hid-gcc-13.3.0-lib l8hnanjcw7k14q2ll6sipgd8x8hjcnpz-libcublas-11.11.3.6-lib mkhhjfg2isjbfx87dz191bzpnwx1bbr9-gcc-13.3.0-libgcc
+Deriver: y7da1jv1fpan1zvxm1b0v4a2qsqnv42i-libcusolver-11.4.1.48.drv

@@ -1,0 +1,9 @@
+StorePath: /nix/store/iaq17krgfvb34p55lglhwli2bkps2qc0-libnpp-11.8.0.86-lib
+URL: nar/0pxczz8z3lsjsf6zxy1xp7hyll5jpvm5cnfxd6s64mfi5dpk5szs.nar.xz
+Compression: xz
+FileHash: sha256:0pxczz8z3lsjsf6zxy1xp7hyll5jpvm5cnfxd6s64mfi5dpk5szs
+FileSize: 101374584
+NarHash: sha256:1838dszkr3yglnm4y9i3l1605b8rpllgcdcg6lq2qd168rkr3hk1
+NarSize: 256733096
+References: iaq17krgfvb34p55lglhwli2bkps2qc0-libnpp-11.8.0.86-lib mkhhjfg2isjbfx87dz191bzpnwx1bbr9-gcc-13.3.0-libgcc
+Deriver: abnkrvywll08jfy2r7787y7313cvcf3x-libnpp-11.8.0.86.drv

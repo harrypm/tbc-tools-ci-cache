@@ -1,0 +1,10 @@
+StorePath: /nix/store/shwm133k092nh8jyvnp4d3ygbzf6cp03-libmpc-1.3.1
+URL: nar/06a769m7fwcpp0db670dpw52cpwp39wxgsflw5ghn8cg4a3jkx7k.nar.xz
+Compression: xz
+FileHash: sha256:06a769m7fwcpp0db670dpw52cpwp39wxgsflw5ghn8cg4a3jkx7k
+FileSize: 81768
+NarHash: sha256:0b40fmnr6x757arr98k3zd7q5n26langmjwkqsn0d9y3l96ikw3x
+NarSize: 284080
+References: 5j8klw09w57p0mkl4cfvyy3a4gx5ag8b-mpfr-4.2.1 5m9amsvvh2z8sl7jrnc87hzy21glw6k1-glibc-2.40-66 n358cyfz9inqqynkiiwsvax3bysp9m0x-gmp-6.3.0 shwm133k092nh8jyvnp4d3ygbzf6cp03-libmpc-1.3.1
+Deriver: si0q56fv9zn89kqd6q3xrh2bg39r2bq5-libmpc-1.3.1.drv
+Sig: cache.nixos.org-1:jImxvZKFgsfaCORK2LcVQVY6dnqDmus+zwOxEfk+gNztFRj0nh8azzsbOrbsKeurrFnAQIUbu3Bsd1JXNruLCQ==

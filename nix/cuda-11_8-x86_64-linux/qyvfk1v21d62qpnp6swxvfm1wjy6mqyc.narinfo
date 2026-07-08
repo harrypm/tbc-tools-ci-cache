@@ -1,0 +1,9 @@
+StorePath: /nix/store/qyvfk1v21d62qpnp6swxvfm1wjy6mqyc-cuda_nvcc-11.8.89
+URL: nar/0k327y95xbyyql0l85530rsddwgi5m1jrdhjllscv2mzb1pf7kk7.nar.xz
+Compression: xz
+FileHash: sha256:0k327y95xbyyql0l85530rsddwgi5m1jrdhjllscv2mzb1pf7kk7
+FileSize: 36399372
+NarHash: sha256:0v6899m9h73xp5yarz0zjkhabdpfhagz3rrr2vr2p1n5qrwxsnci
+NarSize: 127124664
+References: 5m9amsvvh2z8sl7jrnc87hzy21glw6k1-glibc-2.40-66 60br8b7338s2gwkmxdfm1g016qv568h9-gcc-wrapper-11.5.0 9ag5n4q1pbsbvkn6f75d160wblzgji6m-setup-cuda-hook cgq1gkp6r7mzjp9cb0lk1hcxn5wdfn6z-cuda_nvcc-11.8.89-static hh698a2nnpqr47lh52n26wi8fiah3hid-gcc-13.3.0-lib mkhhjfg2isjbfx87dz191bzpnwx1bbr9-gcc-13.3.0-libgcc qyvfk1v21d62qpnp6swxvfm1wjy6mqyc-cuda_nvcc-11.8.89
+Deriver: hac5n7yhwi1ji1p234gmlhc65rgxhjla-cuda_nvcc-11.8.89.drv

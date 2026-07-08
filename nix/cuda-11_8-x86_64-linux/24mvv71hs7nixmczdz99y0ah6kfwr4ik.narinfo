@@ -1,0 +1,9 @@
+StorePath: /nix/store/24mvv71hs7nixmczdz99y0ah6kfwr4ik-cuda_cuxxfilt-11.8.86
+URL: nar/0465650ah8is4k6py7g9cyihassa1l9mmdkin70y4bzzl0yncnyg.nar.xz
+Compression: xz
+FileHash: sha256:0465650ah8is4k6py7g9cyihassa1l9mmdkin70y4bzzl0yncnyg
+FileSize: 13836
+NarHash: sha256:0nc653w8cg9xrxcd4aqq7y9bii8kzd3v077krcqvbbdpzfqhhgm6
+NarSize: 62168
+References: 
+Deriver: 6yip7bysizlk836pajwg7iagmnl3fhs3-cuda_cuxxfilt-11.8.86.drv

@@ -1,0 +1,9 @@
+StorePath: /nix/store/1cgc1a46gp99x7grsqhqyj50kc89hvfz-cuda_nvdisasm-11.8.86-bin
+URL: nar/1kgpgrp2j9qbgqwjp1mgzznpknm6252k69nx9xwphngknlbchdyx.nar.xz
+Compression: xz
+FileHash: sha256:1kgpgrp2j9qbgqwjp1mgzznpknm6252k69nx9xwphngknlbchdyx
+FileSize: 50754900
+NarHash: sha256:1k4x7520irv6mbjcisr4kyhayn7rpqacb7xl6j6nkzkv7dzm3xdy
+NarSize: 51527208
+References: 5m9amsvvh2z8sl7jrnc87hzy21glw6k1-glibc-2.40-66
+Deriver: 0ciinr050gk4vmn1mpgv0ix7p8i0s98s-cuda_nvdisasm-11.8.86.drv

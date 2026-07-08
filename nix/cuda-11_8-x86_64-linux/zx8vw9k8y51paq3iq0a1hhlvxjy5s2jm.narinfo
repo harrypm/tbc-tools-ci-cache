@@ -1,0 +1,9 @@
+StorePath: /nix/store/zx8vw9k8y51paq3iq0a1hhlvxjy5s2jm-cuda_nvprune-11.8.86-bin
+URL: nar/1sw9lv02d4cdkpfi9m3vavk5x766bsf6yx3kx0h8f8pd04l1fpbf.nar.xz
+Compression: xz
+FileHash: sha256:1sw9lv02d4cdkpfi9m3vavk5x766bsf6yx3kx0h8f8pd04l1fpbf
+FileSize: 42436
+NarHash: sha256:0ga4q0igxi2lxxw51qvs1q500847izi39amqwi0c2a5rq4s2sm2i
+NarSize: 118608
+References: 5m9amsvvh2z8sl7jrnc87hzy21glw6k1-glibc-2.40-66
+Deriver: zv5mpl0w7n6v54cy5ysk8i5i0i9yfzss-cuda_nvprune-11.8.86.drv

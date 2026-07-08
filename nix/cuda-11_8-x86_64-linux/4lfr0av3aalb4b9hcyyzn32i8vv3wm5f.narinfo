@@ -1,0 +1,10 @@
+StorePath: /nix/store/4lfr0av3aalb4b9hcyyzn32i8vv3wm5f-gcc-wrapper-11.5.0
+URL: nar/1vcg953vwcm4g5xrpv41riacqaj0pwn9rrmjdpfdi5j5sr156c3j.nar.xz
+Compression: xz
+FileHash: sha256:1vcg953vwcm4g5xrpv41riacqaj0pwn9rrmjdpfdi5j5sr156c3j
+FileSize: 10544
+NarHash: sha256:1y3q990dc2qasmamkp4hw5301jpn0183nc4bhklqxqacvhg2ki3g
+NarSize: 65408
+References: 4lfr0av3aalb4b9hcyyzn32i8vv3wm5f-gcc-wrapper-11.5.0 5m9amsvvh2z8sl7jrnc87hzy21glw6k1-glibc-2.40-66 bw67x2q2qvhwkx8mgcpnnh5zpf709m1h-binutils-wrapper-2.43.1 dc9s2cqvwslmx5lsfidnn60v9af044zw-glibc-2.40-66-dev f8bb29v1w8mhkkxc15xan6mxvbkcbg3s-coreutils-9.5 jwz66z1dv8mh0jy0bii3x805wyhi20yr-glibc-2.40-66-bin k9p52f4qyrw1r57az3z9lgm1p9qdnxsi-gcc-11.5.0 mjhcjikhxps97mq5z54j4gjjfzgmsir5-bash-5.2p37 nnskpiqakc1kxpbrr9lbdcqj9jflk03m-gnugrep-3.11 pdffvncf4d6rjw0xd8s0hi5q70c13s54-expand-response-params sfcjigc3jqcsmlis99hpa7d16gs1lxrq-gcc-11.5.0-lib
+Deriver: 8da4vx9vafxv6z4r4p8xkz620m3wvvxa-gcc-wrapper-11.5.0.drv
+Sig: cache.nixos.org-1:a6UO3jG9HM7BU2xNw6lq8NX+V5vm+TH+LJRnbDO3zj4EGhgiDwUOd2ZQpR9XGTd4/lzuIqKbE26md3xaChJhDw==

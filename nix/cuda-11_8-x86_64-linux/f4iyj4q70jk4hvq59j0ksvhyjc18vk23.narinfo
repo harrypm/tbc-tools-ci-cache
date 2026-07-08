@@ -1,0 +1,9 @@
+StorePath: /nix/store/f4iyj4q70jk4hvq59j0ksvhyjc18vk23-cuda_cuxxfilt-11.8.86-dev
+URL: nar/0wpcrwm7x43di43kyikalqvs1zs1yzqranlr8dl582izwpsxzacz.nar.xz
+Compression: xz
+FileHash: sha256:0wpcrwm7x43di43kyikalqvs1zs1yzqranlr8dl582izwpsxzacz
+FileSize: 1228
+NarHash: sha256:0phkj7hnn3frdk3xgp76jijfw4y3jbh8nnwzjvi8ivrlwykkar1l
+NarSize: 3168
+References: 24mvv71hs7nixmczdz99y0ah6kfwr4ik-cuda_cuxxfilt-11.8.86 9ng4vnwzdh5axxlj2cmmdjfax1hg3vv7-cuda_cuxxfilt-11.8.86-bin nz3qc650pcs458x1w1b6yl4cd93x1sbh-cuda_cuxxfilt-11.8.86-static
+Deriver: 6yip7bysizlk836pajwg7iagmnl3fhs3-cuda_cuxxfilt-11.8.86.drv

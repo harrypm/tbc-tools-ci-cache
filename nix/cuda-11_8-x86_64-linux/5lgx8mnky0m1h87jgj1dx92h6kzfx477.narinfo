@@ -1,0 +1,9 @@
+StorePath: /nix/store/5lgx8mnky0m1h87jgj1dx92h6kzfx477-cuda_cudart-11.8.89-stubs
+URL: nar/1dnan2h3zh6nwyvvvykcdmjvrrz4x82v6fb5lysk01768z36z5ap.nar.xz
+Compression: xz
+FileHash: sha256:1dnan2h3zh6nwyvvvykcdmjvrrz4x82v6fb5lysk01768z36z5ap
+FileSize: 11212
+NarHash: sha256:1dzjbb3rdy43asags5cwsqz57wibyk8nrls60lx76is805qa4sj8
+NarSize: 99968
+References: 
+Deriver: 2cmwz5fckgbd6c39zcds04b6d6j32d3n-cuda_cudart-11.8.89.drv

@@ -1,0 +1,9 @@
+StorePath: /nix/store/mj7idnqjqazmgmhnc2bf9rg5cfqa1dz6-libcusolver-11.4.1.48-dev
+URL: nar/0bbprds6lff9lrpnp3nmbvx43d0wc3wk34fnd7yj3giigx3km3wr.nar.xz
+Compression: xz
+FileHash: sha256:0bbprds6lff9lrpnp3nmbvx43d0wc3wk34fnd7yj3giigx3km3wr
+FileSize: 14144
+NarHash: sha256:0g2v3w5dy4azrnki1f47fqxmg53v4k37g2zqjmrpijxl2k7ggbr2
+NarSize: 255936
+References: 549qb18qwgjh8r65sf0k7ny816gqrpq5-libcusolver-11.4.1.48-lib mj7idnqjqazmgmhnc2bf9rg5cfqa1dz6-libcusolver-11.4.1.48-dev r77ncg9hdzsmdgf2hbr8v2d0xyzdk1bp-libcusolver-11.4.1.48-static v2jx3kbkn3y7l8b9l1p6yph9jb6gr5i1-libcusolver-11.4.1.48
+Deriver: y7da1jv1fpan1zvxm1b0v4a2qsqnv42i-libcusolver-11.4.1.48.drv

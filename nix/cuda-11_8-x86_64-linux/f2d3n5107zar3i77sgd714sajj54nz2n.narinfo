@@ -1,0 +1,9 @@
+StorePath: /nix/store/f2d3n5107zar3i77sgd714sajj54nz2n-libnpp-11.8.0.86-static
+URL: nar/0lcycl177b71ckxi86c6lwnh3jmb21a7ha2ffnlx1dvxmp1c136z.nar.xz
+Compression: xz
+FileHash: sha256:0lcycl177b71ckxi86c6lwnh3jmb21a7ha2ffnlx1dvxmp1c136z
+FileSize: 98603132
+NarHash: sha256:1gppffgv5p74fjcpiy89g5f6mry6vx12rvb4x41mih05a5i8qrbp
+NarSize: 254142736
+References: 
+Deriver: abnkrvywll08jfy2r7787y7313cvcf3x-libnpp-11.8.0.86.drv

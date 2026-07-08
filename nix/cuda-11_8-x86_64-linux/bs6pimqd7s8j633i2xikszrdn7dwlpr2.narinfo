@@ -1,0 +1,9 @@
+StorePath: /nix/store/bs6pimqd7s8j633i2xikszrdn7dwlpr2-cuda_cccl-11.8.89
+URL: nar/0465650ah8is4k6py7g9cyihassa1l9mmdkin70y4bzzl0yncnyg.nar.xz
+Compression: xz
+FileHash: sha256:0465650ah8is4k6py7g9cyihassa1l9mmdkin70y4bzzl0yncnyg
+FileSize: 13836
+NarHash: sha256:0nc653w8cg9xrxcd4aqq7y9bii8kzd3v077krcqvbbdpzfqhhgm6
+NarSize: 62168
+References: 
+Deriver: 9919i6l07vw1i8rry69bi2aryrc8ix55-cuda_cccl-11.8.89.drv

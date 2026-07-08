@@ -1,0 +1,9 @@
+StorePath: /nix/store/f0n157gkqjz2pyvm4igpfxnpl42pbxi8-cuda_nvrtc-11.8.89-lib
+URL: nar/0hfzmda5ffskbr5z9zb1sfhrqkjwdqq49j58nwyzpv9097iv6mbb.nar.xz
+Compression: xz
+FileHash: sha256:0hfzmda5ffskbr5z9zb1sfhrqkjwdqq49j58nwyzpv9097iv6mbb
+FileSize: 16390996
+NarHash: sha256:13ndi4fnql74k8a9z9hkjkkqjh5z1nl7y1mbpff3mss849s0sipv
+NarSize: 62164232
+References: hh698a2nnpqr47lh52n26wi8fiah3hid-gcc-13.3.0-lib mkhhjfg2isjbfx87dz191bzpnwx1bbr9-gcc-13.3.0-libgcc
+Deriver: g0ll3fwslshhdcjxk4qizdd9ahv2bc4k-cuda_nvrtc-11.8.89.drv

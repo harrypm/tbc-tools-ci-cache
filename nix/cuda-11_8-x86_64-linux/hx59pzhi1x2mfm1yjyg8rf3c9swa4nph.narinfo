@@ -1,0 +1,10 @@
+StorePath: /nix/store/hx59pzhi1x2mfm1yjyg8rf3c9swa4nph-gcc-13.3.0
+URL: nar/04146dzrs5d0pwpnn61byzpq7f6zih1q64mvyld4jmhcxn8l889z.nar.xz
+Compression: xz
+FileHash: sha256:04146dzrs5d0pwpnn61byzpq7f6zih1q64mvyld4jmhcxn8l889z
+FileSize: 52018508
+NarHash: sha256:1k7hjd69sq3w95fzhcl9x3d5jci1a86x6lj05d1dg9n2q38kympq
+NarSize: 231449040
+References: 12g6x64jvzx6igc78339sr9y8bm76lhw-isl-0.20 5j8klw09w57p0mkl4cfvyy3a4gx5ag8b-mpfr-4.2.1 5m9amsvvh2z8sl7jrnc87hzy21glw6k1-glibc-2.40-66 b6mjyiadysqlh7nps52faznnqmp32604-zlib-1.3.1 dc9s2cqvwslmx5lsfidnn60v9af044zw-glibc-2.40-66-dev hh698a2nnpqr47lh52n26wi8fiah3hid-gcc-13.3.0-lib hx59pzhi1x2mfm1yjyg8rf3c9swa4nph-gcc-13.3.0 n358cyfz9inqqynkiiwsvax3bysp9m0x-gmp-6.3.0 shwm133k092nh8jyvnp4d3ygbzf6cp03-libmpc-1.3.1
+Deriver: ljni38nz5czh2x6419hysj4l6zgl8pdx-gcc-13.3.0.drv
+Sig: cache.nixos.org-1:GjTGqv0M7CXcx+u0PLBT9X7xAyMnSjCT4we8yjuVsUmafZWCAflatHLZxFPQ/x6/uYGz2JPTZ+Bnmn3N/ZPNAg==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/pdffvncf4d6rjw0xd8s0hi5q70c13s54-expand-response-params
+URL: nar/1bm2bbvd1af1n47m6cis3pdj8r8s1f2agcql5k2g1111vgxxzjfn.nar.xz
+Compression: xz
+FileHash: sha256:1bm2bbvd1af1n47m6cis3pdj8r8s1f2agcql5k2g1111vgxxzjfn
+FileSize: 3096
+NarHash: sha256:07zq9sb3yizwsv17l210c40cb1z1w4w5bqk4hv0il5zm6ma48j29
+NarSize: 16768
+References: 5m9amsvvh2z8sl7jrnc87hzy21glw6k1-glibc-2.40-66
+Deriver: 7j7q861s7qplzyxxd909imiimiv2fmzw-expand-response-params.drv
+Sig: cache.nixos.org-1:UxgcrcGB3Rjz9l0TJTNYAS0x2zjNH/1/EAf7l/1WnF+rU1Db/dq/qR+zcDOBd+xB5Vl7XcRnA5NIKIeULP/2AQ==

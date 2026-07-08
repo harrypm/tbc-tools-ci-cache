@@ -1,0 +1,9 @@
+StorePath: /nix/store/ddq96n13l9h8rr2gj1yjxpki1c1bj9n2-libcublas-11.11.3.6-dev
+URL: nar/1445vz0zwpmil8grmjqjan3sk8xcwflk5a0s2lvzbcr4c5v7af3m.nar.xz
+Compression: xz
+FileHash: sha256:1445vz0zwpmil8grmjqjan3sk8xcwflk5a0s2lvzbcr4c5v7af3m
+FileSize: 27140
+NarHash: sha256:1zs0ahnbj5jp8wbr8651yxfykglss4alxc4ksc8b0bik3wbxk06n
+NarSize: 414192
+References: 6ihv318vb1v3lzs3i85wcd2f5pz63pyi-libcublas-11.11.3.6 cakzlrhp0hnbbdhkvvs7byckdb698c7b-libcublas-11.11.3.6-static ddq96n13l9h8rr2gj1yjxpki1c1bj9n2-libcublas-11.11.3.6-dev l8hnanjcw7k14q2ll6sipgd8x8hjcnpz-libcublas-11.11.3.6-lib
+Deriver: byshx6zx5hl6919jzwclajfbsijmalg9-libcublas-11.11.3.6.drv

@@ -1,0 +1,8 @@
+original_name=0b77fcr6kaj9fn1mckvrcya6v4gs65lxh7hm5q8pb9rnrcvsyl4x.nar.xz
+original_size=241040688
+original_sha256=9d50af37cb36a775112e151ed86931fa916d9467794f56837549aa693273e72c
+chunk_count=3
+# chunk filenames (relative to this .parts dir):
+0b77fcr6kaj9fn1mckvrcya6v4gs65lxh7hm5q8pb9rnrcvsyl4x.nar.xz.part.0000
+0b77fcr6kaj9fn1mckvrcya6v4gs65lxh7hm5q8pb9rnrcvsyl4x.nar.xz.part.0001
+0b77fcr6kaj9fn1mckvrcya6v4gs65lxh7hm5q8pb9rnrcvsyl4x.nar.xz.part.0002

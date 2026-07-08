@@ -1,0 +1,9 @@
+StorePath: /nix/store/m44zzlr9swlx5n8ir1cmrvkn49c3i8xf-cuda_cuobjdump-11.8.86
+URL: nar/1pxc509k77z709x1azfj5pf89y97mw2q4rf8nwxc6w10lrp2y3b4.nar.xz
+Compression: xz
+FileHash: sha256:1pxc509k77z709x1azfj5pf89y97mw2q4rf8nwxc6w10lrp2y3b4
+FileSize: 13952
+NarHash: sha256:0ij9gb8fjxlaiddh9ab3ml0w6pnmz1x05s5im9qzn8zk41sj7fl1
+NarSize: 62512
+References: 077x1lgjsi868r63yx0vik2alslcf38w-cuda_cuobjdump-11.8.86-bin m44zzlr9swlx5n8ir1cmrvkn49c3i8xf-cuda_cuobjdump-11.8.86
+Deriver: bphd7xwc7dpp9pg31hlm0lx6zmimmxb9-cuda_cuobjdump-11.8.86.drv

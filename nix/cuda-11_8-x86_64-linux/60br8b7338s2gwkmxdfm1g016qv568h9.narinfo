@@ -1,0 +1,10 @@
+StorePath: /nix/store/60br8b7338s2gwkmxdfm1g016qv568h9-gcc-wrapper-11.5.0
+URL: nar/1i0kncihkhhjmvs6vhbflfdk6y7pxjzk4h6hr5aygx4lp4541461.nar.xz
+Compression: xz
+FileHash: sha256:1i0kncihkhhjmvs6vhbflfdk6y7pxjzk4h6hr5aygx4lp4541461
+FileSize: 10620
+NarHash: sha256:137dx6z9c2jbnzqjay7rlhqa7r3x0wclspynxs0dbxjgjprnbg8z
+NarSize: 65568
+References: 5m9amsvvh2z8sl7jrnc87hzy21glw6k1-glibc-2.40-66 60br8b7338s2gwkmxdfm1g016qv568h9-gcc-wrapper-11.5.0 bw67x2q2qvhwkx8mgcpnnh5zpf709m1h-binutils-wrapper-2.43.1 dc9s2cqvwslmx5lsfidnn60v9af044zw-glibc-2.40-66-dev f8bb29v1w8mhkkxc15xan6mxvbkcbg3s-coreutils-9.5 hh698a2nnpqr47lh52n26wi8fiah3hid-gcc-13.3.0-lib hx59pzhi1x2mfm1yjyg8rf3c9swa4nph-gcc-13.3.0 jwz66z1dv8mh0jy0bii3x805wyhi20yr-glibc-2.40-66-bin k9p52f4qyrw1r57az3z9lgm1p9qdnxsi-gcc-11.5.0 mjhcjikhxps97mq5z54j4gjjfzgmsir5-bash-5.2p37 nnskpiqakc1kxpbrr9lbdcqj9jflk03m-gnugrep-3.11 pdffvncf4d6rjw0xd8s0hi5q70c13s54-expand-response-params sfcjigc3jqcsmlis99hpa7d16gs1lxrq-gcc-11.5.0-lib
+Deriver: p1kxllak9mg05cbhx53966l8q9lx83c4-gcc-wrapper-11.5.0.drv
+Sig: cache.nixos.org-1:tvzdMayFvxYhPq4bqMUJBcmQQ6CSw264ECygWBM2OFoXZxmt8q8OIz8XECkzXGb88dFVAfGqj0MtyXVdN5FcDw==

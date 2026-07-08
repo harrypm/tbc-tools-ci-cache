@@ -1,0 +1,9 @@
+StorePath: /nix/store/0byrqj3yjbzfchycyxl3a7dqspl0va3v-cuda_gdb-11.8.86-bin
+URL: nar/1fy8nzk17pndgjxdzfnj91b47zlyni98b33qzcanc0l95jnj01kq.nar.xz
+Compression: xz
+FileHash: sha256:1fy8nzk17pndgjxdzfnj91b47zlyni98b33qzcanc0l95jnj01kq
+FileSize: 4062172
+NarHash: sha256:1l5vja1r3rq0k3z3xajyh2acvss6q3rflf6ysz18rm1dgrxns4yg
+NarSize: 14480824
+References: 5m9amsvvh2z8sl7jrnc87hzy21glw6k1-glibc-2.40-66 hh698a2nnpqr47lh52n26wi8fiah3hid-gcc-13.3.0-lib mkhhjfg2isjbfx87dz191bzpnwx1bbr9-gcc-13.3.0-libgcc
+Deriver: dz976i5jda47bvgvw2zrp6rxgry4xilq-cuda_gdb-11.8.86.drv

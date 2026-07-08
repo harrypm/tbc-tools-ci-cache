@@ -1,0 +1,9 @@
+StorePath: /nix/store/wl3h0n4vhhb8kbvlb9xydhqj9z3his4z-cuda_sanitizer_api-11.8.86
+URL: nar/1jlswavhl7zmvc73nz2ckhisyn4n16l2p02s3hqdyd5hq46mqg04.nar.xz
+Compression: xz
+FileHash: sha256:1jlswavhl7zmvc73nz2ckhisyn4n16l2p02s3hqdyd5hq46mqg04
+FileSize: 8352464
+NarHash: sha256:1j1km3a8mc64y0n9wik6nd4cvg9fa5c6ggkdgkv1qdr6qb0935v1
+NarSize: 37874600
+References: 5m9amsvvh2z8sl7jrnc87hzy21glw6k1-glibc-2.40-66 628xiqc449fgqwr9yyi9mpdal2x4w7vw-cuda_sanitizer_api-11.8.86-bin mkhhjfg2isjbfx87dz191bzpnwx1bbr9-gcc-13.3.0-libgcc wl3h0n4vhhb8kbvlb9xydhqj9z3his4z-cuda_sanitizer_api-11.8.86
+Deriver: 9j9n40ycxx95qpgcb45jzni9viiyznkc-cuda_sanitizer_api-11.8.86.drv

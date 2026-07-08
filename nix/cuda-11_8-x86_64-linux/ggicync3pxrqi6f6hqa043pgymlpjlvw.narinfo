@@ -1,0 +1,9 @@
+StorePath: /nix/store/ggicync3pxrqi6f6hqa043pgymlpjlvw-cuda_nvml_dev-11.8.86-lib
+URL: nar/0z4bg3400gfr1n8hmjijj2cybylhkvyawdclph590s6k50lj37vh.nar.xz
+Compression: xz
+FileHash: sha256:0z4bg3400gfr1n8hmjijj2cybylhkvyawdclph590s6k50lj37vh
+FileSize: 7244
+NarHash: sha256:14nq6d3nbq38fr1n3i4y3xqgz5c458nfp96bk05kimi75c4hbhaa
+NarSize: 71440
+References: 
+Deriver: kqmp3bi9fkd4i805sps093kkmnq6dppk-cuda_nvml_dev-11.8.86.drv

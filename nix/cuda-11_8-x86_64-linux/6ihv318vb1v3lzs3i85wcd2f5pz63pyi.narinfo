@@ -1,0 +1,9 @@
+StorePath: /nix/store/6ihv318vb1v3lzs3i85wcd2f5pz63pyi-libcublas-11.11.3.6
+URL: nar/05k5i7abbrfaznmdy00afjy6lslpkr847gdhi6pxmgjk50rs2n47.nar.xz
+Compression: xz
+FileHash: sha256:05k5i7abbrfaznmdy00afjy6lslpkr847gdhi6pxmgjk50rs2n47
+FileSize: 28244
+NarHash: sha256:05xwy18240ky9h48rc9d1xjx8zhxxd1b5ywpypg0dkaj2k16z9li
+NarSize: 504696
+References: 
+Deriver: byshx6zx5hl6919jzwclajfbsijmalg9-libcublas-11.11.3.6.drv

@@ -1,0 +1,10 @@
+StorePath: /nix/store/9ag5n4q1pbsbvkn6f75d160wblzgji6m-setup-cuda-hook
+URL: nar/11bwllby6xig5yakg2zarrrcga0h0c9gghg2v64w9q03mmkw9cjq.nar.xz
+Compression: xz
+FileHash: sha256:11bwllby6xig5yakg2zarrrcga0h0c9gghg2v64w9q03mmkw9cjq
+FileSize: 2032
+NarHash: sha256:0wqjj521pnbgv58y7qmdn72h52a7qmlgyyjjvdl6zk6wigb5d5hh
+NarSize: 5536
+References: 60br8b7338s2gwkmxdfm1g016qv568h9-gcc-wrapper-11.5.0 9ag5n4q1pbsbvkn6f75d160wblzgji6m-setup-cuda-hook
+Deriver: 0rnd2k11756143jwgvhm8gb1hpdlb461-setup-cuda-hook.drv
+Sig: cache.nixos.org-1:q7QH+PrptKhtkjeuf93hZ0wcQfOeVvybBKuhzSeAr0bqyMgFByBbOAyNtlTMWqBcQb6K68ASS151lHCOVYheAA==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/k9p52f4qyrw1r57az3z9lgm1p9qdnxsi-gcc-11.5.0
+URL: nar/0kr469w65hdqlcy3v7gq222yac2890biadi66qaaai5rjp9mai41.nar.xz
+Compression: xz
+FileHash: sha256:0kr469w65hdqlcy3v7gq222yac2890biadi66qaaai5rjp9mai41
+FileSize: 45189428
+NarHash: sha256:1pm1mak5snp718h254gkvkwmh7x10myz25m7b5h2vzvs6ci56nfm
+NarSize: 194742384
+References: 5m9amsvvh2z8sl7jrnc87hzy21glw6k1-glibc-2.40-66 b6mjyiadysqlh7nps52faznnqmp32604-zlib-1.3.1 dc9s2cqvwslmx5lsfidnn60v9af044zw-glibc-2.40-66-dev fm7bc2z0d1wkk6hq925h8803wfl3pb9g-isl-0.20 hh698a2nnpqr47lh52n26wi8fiah3hid-gcc-13.3.0-lib k9p52f4qyrw1r57az3z9lgm1p9qdnxsi-gcc-11.5.0 sfcjigc3jqcsmlis99hpa7d16gs1lxrq-gcc-11.5.0-lib sqib6gfcgyxhv6cqwgb57prila41c575-libmpc-1.3.1 sxh73xj9wphjldm8axwm2s0hijylp6wx-mpfr-4.2.1 zpwp6k2kldm84ql88sj1q0i8iyivi7ms-gmp-with-cxx-6.3.0
+Deriver: wgc7286c9qnnhmxvwadnryn9i7qmdihy-gcc-11.5.0.drv
+Sig: cache.nixos.org-1:Ip0qDO5d6HzJjeTUvI/shOdd7dkaXURj52HBgOVBNRVAsqqMcQh9NpWkJd2/EqlYs8Uj6QikcO7VawBFSpNtDg==

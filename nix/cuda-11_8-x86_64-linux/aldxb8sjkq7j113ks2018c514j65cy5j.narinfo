@@ -1,0 +1,9 @@
+StorePath: /nix/store/aldxb8sjkq7j113ks2018c514j65cy5j-libcufft-10.9.0.58-dev
+URL: nar/09d87mk0ll5j7b2759yl2zdvrczflb63wsmbwdifbgxpd28avb1f.nar.xz
+Compression: xz
+FileHash: sha256:09d87mk0ll5j7b2759yl2zdvrczflb63wsmbwdifbgxpd28avb1f
+FileSize: 6516
+NarHash: sha256:1ph5kv83rr1bk7p5x8ngs4053zh1i5w9fm0ih3ypqbp82c0maqkj
+NarSize: 51928
+References: 7lg2kgpncia3jzkxn7sjidqjp5fga08c-libcufft-10.9.0.58 9977r32dsnrlnis4l6l5frhbf2qdg51z-libcufft-10.9.0.58-static aldxb8sjkq7j113ks2018c514j65cy5j-libcufft-10.9.0.58-dev hzkwp087rjzmvqys6mziqpdf8xxbjr2k-libcufft-10.9.0.58-lib
+Deriver: 8wmiszzqs1bqqmq2alnhwils6nzldr9m-libcufft-10.9.0.58.drv

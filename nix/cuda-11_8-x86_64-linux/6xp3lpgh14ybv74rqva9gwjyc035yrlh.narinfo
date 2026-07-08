@@ -1,0 +1,9 @@
+StorePath: /nix/store/6xp3lpgh14ybv74rqva9gwjyc035yrlh-libcurand-10.3.0.86-static
+URL: nar/1p7gcmlmw2rmv6zap1yrj8ab24fhvlspg5n52k0byg2isbqy6vv0.nar.xz
+Compression: xz
+FileHash: sha256:1p7gcmlmw2rmv6zap1yrj8ab24fhvlspg5n52k0byg2isbqy6vv0
+FileSize: 41835600
+NarHash: sha256:00mpqwzsbycc9dhy49m33nfknivrl8b2cmxcxywwawz6kwbba809
+NarSize: 101409168
+References: 
+Deriver: v2hm10ncyfpkvxzcxdp04zr2a6gh0m85-libcurand-10.3.0.86.drv

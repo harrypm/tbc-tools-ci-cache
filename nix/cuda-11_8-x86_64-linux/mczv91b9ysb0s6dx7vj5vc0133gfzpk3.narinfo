@@ -1,0 +1,10 @@
+StorePath: /nix/store/mczv91b9ysb0s6dx7vj5vc0133gfzpk3-linux-headers-6.10
+URL: nar/14sq5zlazcs8dm3d0aw2wan8yavn7c6r5zf79r40zcmb77f9nqq7.nar.xz
+Compression: xz
+FileHash: sha256:14sq5zlazcs8dm3d0aw2wan8yavn7c6r5zf79r40zcmb77f9nqq7
+FileSize: 1332080
+NarHash: sha256:0h8wbm783m6cwfdjyyc6yc4shcx3cdcpdf79n76p47zrw59bw5dd
+NarSize: 6809920
+References: 
+Deriver: 7nxsvcdq7qrvx0sb98xmk3d7l8w348rs-linux-headers-6.10.drv
+Sig: cache.nixos.org-1:5EAQ/0cRrK5/ScspekQBsNjsZeeOto+cDe0jbXhijj5Omkmr7El7FrbH4ADaTLrOim7pBu5ni+AwgQQtOrfTCA==

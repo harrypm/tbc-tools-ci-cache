@@ -1,0 +1,9 @@
+StorePath: /nix/store/kh3x0i7f18wjla8g6ghbkfdfp4sml765-cuda_nvtx-11.8.86
+URL: nar/0465650ah8is4k6py7g9cyihassa1l9mmdkin70y4bzzl0yncnyg.nar.xz
+Compression: xz
+FileHash: sha256:0465650ah8is4k6py7g9cyihassa1l9mmdkin70y4bzzl0yncnyg
+FileSize: 13836
+NarHash: sha256:0nc653w8cg9xrxcd4aqq7y9bii8kzd3v077krcqvbbdpzfqhhgm6
+NarSize: 62168
+References: 
+Deriver: vxn8v7lv0xxgily0z9m4885f6sh2z5vi-cuda_nvtx-11.8.86.drv

@@ -1,0 +1,9 @@
+StorePath: /nix/store/6hcq1v8w7kvq1v0my3hv03sincqy6rxx-cuda_cupti-11.8.87-sample
+URL: nar/0axmmah5x41cmcivs7x97phrchq8kv4sk5rqdcymgirmw2b0aixf.nar.xz
+Compression: xz
+FileHash: sha256:0axmmah5x41cmcivs7x97phrchq8kv4sk5rqdcymgirmw2b0aixf
+FileSize: 73132
+NarHash: sha256:1nkk88wrxkw5cmya3q6sx5hjak5g94zp7mjaa3ipvjx4v3p1i6dn
+NarSize: 707416
+References: 
+Deriver: 9ng716br9wal0wgkhfkb24wlkz29npid-cuda_cupti-11.8.87.drv

@@ -1,0 +1,9 @@
+StorePath: /nix/store/00yx9v6m1cb25zyfq2cwf4ilrx8fv68j-libcusparse-11.7.5.86-dev
+URL: nar/0d0324c0qrfj51xrn25lsdydqxi67x86kszbhjfrs3qav83qbyr4.nar.xz
+Compression: xz
+FileHash: sha256:0d0324c0qrfj51xrn25lsdydqxi67x86kszbhjfrs3qav83qbyr4
+FileSize: 14928
+NarHash: sha256:0s0rcb74d4a5i7f7aspmagc65smpvnq7p0dn3q35hh95igx1sv2m
+NarSize: 339976
+References: 00yx9v6m1cb25zyfq2cwf4ilrx8fv68j-libcusparse-11.7.5.86-dev 3mc291sad2hagw43m7jkfhm91ysgygy1-libcusparse-11.7.5.86 h6b2cwiifq45sqzw61v27d55shc5nn7j-libcusparse-11.7.5.86-static qkcf07acmras2n9gjp85qkf93iksa2qa-libcusparse-11.7.5.86-lib
+Deriver: l0yjymgacvhngv3vs3b71y4pywl1js4r-libcusparse-11.7.5.86.drv

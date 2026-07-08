@@ -1,0 +1,9 @@
+StorePath: /nix/store/l1vsdma5l8dhw2h89a083r5fr5zgfdvd-cuda_nvrtc-11.8.89-dev
+URL: nar/1050kmwrxrsiy8yhv0wvxns122kqqms1mrsk26wx85554qrblhgy.nar.xz
+Compression: xz
+FileHash: sha256:1050kmwrxrsiy8yhv0wvxns122kqqms1mrsk26wx85554qrblhgy
+FileSize: 7272
+NarHash: sha256:1wyk879c7s40i3qvzjhvvrnll1szsxf66cd8vh2af54fz49rdp78
+NarSize: 32928
+References: f0n157gkqjz2pyvm4igpfxnpl42pbxi8-cuda_nvrtc-11.8.89-lib l1vsdma5l8dhw2h89a083r5fr5zgfdvd-cuda_nvrtc-11.8.89-dev l2s5lnksql0qc8knasrmylhz6bgch6hn-cuda_nvrtc-11.8.89-static x0xi4vb6q0kcqxzzsjd38xgicnfslywf-cuda_nvrtc-11.8.89
+Deriver: g0ll3fwslshhdcjxk4qizdd9ahv2bc4k-cuda_nvrtc-11.8.89.drv

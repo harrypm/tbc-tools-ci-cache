@@ -1,0 +1,9 @@
+StorePath: /nix/store/cgq1gkp6r7mzjp9cb0lk1hcxn5wdfn6z-cuda_nvcc-11.8.89-static
+URL: nar/15fpigjh5ghhz34ihpvw5g9ph29wq4dnlij8fc6ibd3l9cgviln3.nar.xz
+Compression: xz
+FileHash: sha256:15fpigjh5ghhz34ihpvw5g9ph29wq4dnlij8fc6ibd3l9cgviln3
+FileSize: 6876348
+NarHash: sha256:146302vxv7dpk1kn49ab2d1wyazq2bii0fc47yj2hl6mcc1zb2ww
+NarSize: 36396536
+References: 
+Deriver: hac5n7yhwi1ji1p234gmlhc65rgxhjla-cuda_nvcc-11.8.89.drv
