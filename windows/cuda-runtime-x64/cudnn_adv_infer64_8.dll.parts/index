@@ -1,0 +1,7 @@
+original_name=cudnn_adv_infer64_8.dll
+original_size=125478440
+original_sha256=1b8a5d1dca759732df68ba538dcc8f3a59f828e788464357828a651b692e16db
+chunk_count=2
+# chunk filenames (relative to this .parts dir):
+cudnn_adv_infer64_8.dll.part.0000
+cudnn_adv_infer64_8.dll.part.0001

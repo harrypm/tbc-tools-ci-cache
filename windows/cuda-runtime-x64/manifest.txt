@@ -1,0 +1,10 @@
+# windows-cuda-runtime manifest (system=win_amd64, generated_utc=2026-07-11T03:13:18Z)
+# <dll> <sha256> <size> <source_wheel> <wheel_version>
+cudart64_110.dll ba5c2fb526c4ee4bb218ceb3fa5e8bfde89ce474f38711fdcce802549bf9fc6f 526848 nvidia_cuda_runtime_cu11-11.8.89-py3-none-win_amd64.whl 11.8.89
+cublas64_11.dll 8ca516b96b29c2fba2344909a896bc1cd7951f6cd11fe595a8a3929c02cccbed 88668160 nvidia_cublas_cu11-11.11.3.6-py3-none-win_amd64.whl 11.11.3.6
+cublasLt64_11.dll 3d06ca4e4893adb7a153ecd23a540e92817c967312b44646d8c3f91b089196e6 544070144 nvidia_cublas_cu11-11.11.3.6-py3-none-win_amd64.whl 11.11.3.6
+cufft64_10.dll b23e067f0aba79e2dda64a45ed3e8fb591880211e7bfd4bc53b681d27e386093 279878656 nvidia_cufft_cu11-10.9.0.58-py3-none-win_amd64.whl 10.9.0.58
+cudnn64_8.dll 4a58d4794ad41eafc7a8dc7214e20f948d0742d7267b368cd7a43563bf8abfcd 288296 nvidia_cudnn_cu11-8.9.5.29-py3-none-win_amd64.whl 8.9.5.29
+cudnn_cnn_infer64_8.dll 439a3f63a7e784b87d0996a1215f056f0db9e7e33c126b17556e90b93c089605 571158056 nvidia_cudnn_cu11-8.9.5.29-py3-none-win_amd64.whl 8.9.5.29
+cudnn_ops_infer64_8.dll 1fe3cd93dca8bfa8a2cb960df959791f09bf0b51dc2bc00d7b2a2dcc94120219 89814056 nvidia_cudnn_cu11-8.9.5.29-py3-none-win_amd64.whl 8.9.5.29
+cudnn_adv_infer64_8.dll 1b8a5d1dca759732df68ba538dcc8f3a59f828e788464357828a651b692e16db 125478440 nvidia_cudnn_cu11-8.9.5.29-py3-none-win_amd64.whl 8.9.5.29

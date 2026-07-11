@@ -1,0 +1,8 @@
+original_name=cufft64_10.dll
+original_size=279878656
+original_sha256=b23e067f0aba79e2dda64a45ed3e8fb591880211e7bfd4bc53b681d27e386093
+chunk_count=3
+# chunk filenames (relative to this .parts dir):
+cufft64_10.dll.part.0000
+cufft64_10.dll.part.0001
+cufft64_10.dll.part.0002
